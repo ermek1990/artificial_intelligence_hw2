@@ -1,0 +1,16 @@
+3
+ALPHABETA
+O
+2
+1 8 23
+5 42 12
+26 30 9
+X..
+...
+...
+
+Correct answer:
+B3 Stake
+X..
+...
+.O.
